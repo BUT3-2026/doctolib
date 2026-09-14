@@ -1,0 +1,25 @@
+# Variables d'environnement
+.env
+
+# Fichiers générés
+/writable/cache/*
+/writable/logs/*
+/writable/session/*
+/writable/uploads/*
+
+# On conserve les dossiers vides
+!/writable/cache/index.html
+!/writable/logs/index.html
+!/writable/session/index.html
+!/writable/uploads/index.html
+
+# Configuration locale
+app/Config/Database.php
+
+# IDE
+.vscode/
+.idea/
+
+# Système
+.DS_Store
+Thumbs.db

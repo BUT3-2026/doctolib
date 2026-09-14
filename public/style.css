@@ -1,0 +1,47 @@
+h1 {
+	color: #006ABA;
+	text-align: center;
+}
+
+h3 {
+    color: #006ABA;
+    text-align: center;
+}
+
+
+a {
+    color: #006ABA;
+}
+
+ul {
+    line-height: 150%;
+}
+
+legend {
+    background-color: #006ABA;
+    color: #ffffff;
+    padding: 2px 6px;
+    font-size: 1.2em;
+    -moz-border-radius:8px;
+    -webkit-border-radius:8px;
+}
+
+fieldset
+{
+    border:2px solid #006ABA;
+    -moz-border-radius:8px;
+    -webkit-border-radius:8px;	
+    border-radius:8px;
+    margin-top: 8px;
+}
+
+
+table {
+    margin: auto;
+    text-align: center;
+
+}
+
+td {
+    width: 150px;
+}
