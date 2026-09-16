@@ -13,3 +13,5 @@ $routes -> get('patients','Patients::index');
 
 /* Routes pour les praticiens */
 $routes -> get('praticiens/specialite/(:num)','Praticiens::index/$1');
+
+$routes->get('praticiens/index', 'Praticiens::index');
